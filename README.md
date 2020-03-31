@@ -69,10 +69,11 @@ cd ../../drl_p1_navigation/
 
 6. Place the file in this GitHub repository, in the root folder, and unzip (or decompress) the file. 
 
-5. Open Jupyter notebook
+5. Open Jupyter notebook.
 ```bash
 jupyter-notebook
 ```
+The browser should open a new tab with jupyter opened. If not check console output. 
 
 6. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 

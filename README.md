@@ -49,7 +49,7 @@ git clone https://github.com/udacity/deep-reinforcement-learning.git
 Then install dependencies.
 ```bash
 git clone https://github.com/Python35/drl_p1_navigation.git
-mv -f dlr_p1_navigation/requirements.txt deep-reinforcement-learning/python/requirements.txt
+cp drl_p1_navigation/requirements.txt deep-reinforcement-learning/python/requirements.txt 
 cd deep-reinforcement-learning/python/
 pip install .
 ```

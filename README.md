@@ -54,10 +54,10 @@ cd deep-reinforcement-learning/python/
 pip install .
 ```
 
-4. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `drlnd` environment.  
+4. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `drlnd` environment and then change directory o this repository.  
 ```bash
 python -m ipykernel install --user --name drlnd --display-name "drlnd"
-cd ../../dlr_p1_navigation
+cd ../../drl_p1_navigation/
 ```
 
 5. Download the environment from one of the links below.  You need only select the environment that matches your operating system:

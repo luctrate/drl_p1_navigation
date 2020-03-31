@@ -80,5 +80,5 @@ The browser should open a new tab with jupyter opened. If not check console outp
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to train an agent.  
+Follow the instructions in `Navigation.ipynb` to use the trained agent or train the agent from sratch.  
 
